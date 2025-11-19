@@ -13,26 +13,23 @@
 
 ---
 
-<!-- Fixed navigation section - corrected href links to match proper markdown anchor IDs and improved icon alignment to single row format -->
-<div align="center" style="display:flex; flex-direction:row; justify-content:center; gap:10px; align-items:center; flex-wrap:wrap; padding:15px;">
-  <a href="#-campus-sync--a-modern-campus-management-system" style="padding:8px 16px; background-color:#9A00FF; color:white; text-decoration:none; border-radius:5px; font-weight:bold; font-size:14px; white-space:nowrap;">Overview</a>
-  <a href="#-key-highlights" style="padding:8px 16px; background-color:#9A00FF; color:white; text-decoration:none; border-radius:5px; font-weight:bold; font-size:14px; white-space:nowrap;">Highlights</a>
-  <a href="#-core-modules" style="padding:8px 16px; background-color:#9A00FF; color:white; text-decoration:none; border-radius:5px; font-weight:bold; font-size:14px; white-space:nowrap;">Core Modules</a>
-  <a href="#-administrator-portal" style="padding:8px 16px; background-color:#9A00FF; color:white; text-decoration:none; border-radius:5px; font-weight:bold; font-size:14px; white-space:nowrap;">Admin</a>
-  <a href="#-faculty-portal" style="padding:8px 16px; background-color:#9A00FF; color:white; text-decoration:none; border-radius:5px; font-weight:bold; font-size:14px; white-space:nowrap;">Faculty</a>
-  <a href="#-student-portal" style="padding:8px 16px; background-color:#9A00FF; color:white; text-decoration:none; border-radius:5px; font-weight:bold; font-size:14px; white-space:nowrap;">Students</a>
-  <a href="#-system-architecture" style="padding:8px 16px; background-color:#9A00FF; color:white; text-decoration:none; border-radius:5px; font-weight:bold; font-size:14px; white-space:nowrap;">Architecture</a>
-  <a href="#-project-structure" style="padding:8px 16px; background-color:#9A00FF; color:white; text-decoration:none; border-radius:5px; font-weight:bold; font-size:14px; white-space:nowrap;">Structure</a>
-  <a href="#-database-schema-overview" style="padding:8px 16px; background-color:#9A00FF; color:white; text-decoration:none; border-radius:5px; font-weight:bold; font-size:14px; white-space:nowrap;">DB Schema</a>
-  <a href="#-deployment--setup" style="padding:8px 16px; background-color:#9A00FF; color:white; text-decoration:none; border-radius:5px; font-weight:bold; font-size:14px; white-space:nowrap;">Setup</a>
-  <a href="#-contributors" style="padding:8px 16px; background-color:#9A00FF; color:white; text-decoration:none; border-radius:5px; font-weight:bold; font-size:14px; white-space:nowrap;">Contributors</a>
-  <a href="#-course-criteria-breakdown" style="padding:8px 16px; background-color:#9A00FF; color:white; text-decoration:none; border-radius:5px; font-weight:bold; font-size:14px; white-space:nowrap;">Criteria</a>
-  <a href="#-default-login-sample" style="padding:8px 16px; background-color:#9A00FF; color:white; text-decoration:none; border-radius:5px; font-weight:bold; font-size:14px; white-space:nowrap;">Login</a>
-  <a href="#-contribute" style="padding:8px 16px; background-color:#9A00FF; color:white; text-decoration:none; border-radius:5px; font-weight:bold; font-size:14px; white-space:nowrap;">Contribute</a>
-  <a href="#-final-note" style="padding:8px 16px; background-color:#9A00FF; color:white; text-decoration:none; border-radius:5px; font-weight:bold; font-size:14px; white-space:nowrap;">Final Note</a>
-</div>
-
----
+<p align="center">
+  <a href="#campus-sync--a-modern-campus-management-system"><img src="https://img.shields.io/badge/OVERVIEW-Campus%20Sync-9A00FF?style=for-the-badge" /></a>
+  <a href="#key-highlights"><img src="https://img.shields.io/badge/HIGHLIGHTS-Key%20Features-9A00FF?style=for-the-badge" /></a>
+  <a href="#core-modules"><img src="https://img.shields.io/badge/CORE%20MODULES-System-9A00FF?style=for-the-badge" /></a>
+  <a href="#administrator-portal"><img src="https://img.shields.io/badge/ADMIN-Portal-9A00FF?style=for-the-badge" /></a>
+  <a href="#faculty-portal"><img src="https://img.shields.io/badge/FACULTY-Portal-9A00FF?style=for-the-badge" /></a>
+  <a href="#student-portal"><img src="https://img.shields.io/badge/STUDENTS-Portal-9A00FF?style=for-the-badge" /></a>
+  <a href="#system-architecture"><img src="https://img.shields.io/badge/ARCHITECTURE-Design-9A00FF?style=for-the-badge" /></a>
+  <a href="#project-structure"><img src="https://img.shields.io/badge/STRUCTURE-Project-9A00FF?style=for-the-badge" /></a>
+  <a href="#database-schema-overview"><img src="https://img.shields.io/badge/DB%20SCHEMA-Database-9A00FF?style=for-the-badge" /></a>
+  <a href="#deployment--setup"><img src="https://img.shields.io/badge/SETUP-Deployment-9A00FF?style=for-the-badge" /></a>
+  <a href="#contributors"><img src="https://img.shields.io/badge/CONTRIBUTORS-Team-9A00FF?style=for-the-badge" /></a>
+  <a href="#course-criteria-breakdown"><img src="https://img.shields.io/badge/CRITERIA-Breakdown-9A00FF?style=for-the-badge" /></a>
+  <a href="#default-login-sample"><img src="https://img.shields.io/badge/LOGIN-Credentials-9A00FF?style=for-the-badge" /></a>
+  <a href="#contribute"><img src="https://img.shields.io/badge/CONTRIBUTE-Join%20Us-9A00FF?style=for-the-badge" /></a>
+  <a href="#final-note"><img src="https://img.shields.io/badge/FINAL%20NOTE-Conclusion-9A00FF?style=for-the-badge" /></a>
+</p>
 
 # ⚡ Campus Sync — A Modern Campus Management System
 
@@ -164,7 +161,7 @@ Role-based visual interfaces stored inside:
 
 # 🗂 Project Structure
 
-\`\`\`
+```
 CampusSync/
 │
 └── main
@@ -232,7 +229,7 @@ CampusSync/
         │
         └── WEB-INF
             └── web.xml
-\`\`\`
+```
 
 ---
 
@@ -266,49 +263,108 @@ CampusSync/
 
 ---
 
-# 🚀 Deployment & Setup
+Bilkul Scarce —
+yaha **pure tarike se styled, clean, professional aur dark-vibe friendly** `.md` format mai *Deployment & Setup* section de raha hoon.
 
-### **1. Configure MySQL**
-
-\`\`\`
-CREATE DATABASE campus_sync;
-\`\`\`
-
-Import the `campussync.sql` file from the `/db` folder.
-
-### **2. Update DB Credentials**
-
-Modify:
-
-\`\`\`
-DBConnection.java
-\`\`\`
-
-with your MySQL username and password.
-
-### **3. Add JDBC Connector**
-
-Place the MySQL Connector JAR inside the project libraries.
-
-### **4. Configure Apache Tomcat**
-
-* Add new Tomcat configuration
-* Set application root to:
-
-\`\`\`
-/CampusSync
-\`\`\`
-
-### **5. Run the Application**
-
-Visit:
-
-\`\`\`
-http://localhost:8080/CampusSync/
-\`\`\`
+Bas jaise ka taisa README mai paste kar dena.
+No formatting issues, no errors — fully markdown compliant.
 
 ---
 
+# 🚀 Deployment & Setup
+
+Below are the **actual installation steps** required to run the *Campus Sync* system properly on your machine.
+
+
+## **1️⃣ Download the Project ZIP**
+
+Go to the **Green Code Button** on this repository and click:
+
+```
+Download ZIP
+```
+
+Save the ZIP file to your **Desktop** for easy access.
+
+---
+
+## **2️⃣ Extract the ZIP File**
+
+Locate the downloaded file:
+
+```
+CampusSync-main.zip
+```
+
+Right-click → **Extract All**
+
+This will create a folder:
+
+```
+CampusSync/
+```
+
+---
+
+## **3️⃣ Run the Project (Easy Method)**
+
+Inside the extracted folder, find:
+
+```
+startup.bat
+```
+
+Double-click it.
+
+This script will:
+
+* Initialize required paths
+* Configure the environment
+* Start the backend
+* Launch the server automatically
+
+---
+
+## **4️⃣ Run the Project (Manual Path Access Method)**
+
+If you want to run it manually:
+
+Then navigate to the folder:
+
+```cmd
+...\...\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\bin\startup.bat
+```
+
+Now run:
+
+```cmd
+startup.bat
+```
+
+Same execution will start.
+
+---
+
+## **5️⃣ Access the Application**
+
+After the server starts successfully, open your browser:
+
+```
+http://localhost:8080/CampusSync/
+```
+
+Your Campus Sync system is now running.
+
+---
+
+## ✅ Optional but Recommended
+
+* Ensure **Java JDK** is installed
+* Ensure **Apache Tomcat** is running (if required by your setup)
+* Keep the project inside a simple path like Desktop to avoid permission issues
+
+
+---
 # 📄 Contributors
 
 | Name           | Role                   | GitHub                                    |
@@ -316,22 +372,6 @@ http://localhost:8080/CampusSync/
 | **Aman Patel** | Lead Developer         | [OG-SCARCE](https://github.com/OG-SCARCE) |
 | Shobhit Tiwari | UI / Testing           | —                                         |
 | Alok Shaw      | Database & Code Review | —                                         |
-
----
-
-# 🧪 Course Criteria Breakdown
-
-| Section              | Marks |
-| -------------------- | ----- |
-| Project Setup        | 2     |
-| Folder Structure     | 1     |
-| Authentication Logic | 2     |
-| Database Integration | 3     |
-| Notices Module       | 3     |
-| Student Module       | 4     |
-| UI / UX              | 2     |
-| Session Security     | 2     |
-
 ---
 
 # 🔐 Default Login (Sample)
@@ -339,8 +379,8 @@ http://localhost:8080/CampusSync/
 | Role    | Username | Password |
 | ------- | -------- | -------- |
 | Admin   | admin    | admin123 |
-| Faculty | faculty  | faculty123 |
-| Student | student  | student123 |
+| Faculty | faculty | faculty123  |
+| Student | student | student123  |
 
 (You can also Adjust credentials based on your updated SQL data.)
 
@@ -352,12 +392,11 @@ http://localhost:8080/CampusSync/
 Its layered design, clean architecture, and multi-role structure make it ideal for real-world deployment as well as academic project submission.
 
 ---
-
-# 💡 Contribute
+## 💡 Contribute
 
 - Fork the repo
 - Make your changes
-- Submit a pull request
+- Submit a pull request 
 
 ---
 
