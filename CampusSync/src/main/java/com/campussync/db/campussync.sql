@@ -115,10 +115,10 @@ INSERT INTO admin(username, password) VALUES ('admin', 'admin123');
 INSERT INTO course(course_name) VALUES ('B.Tech Computer Science');
 
 INSERT INTO faculty(name, email, password, department)
-VALUES ('Prof. Sharma', 'sharma@campus.edu', 'fac123', 'CSE');
+VALUES ('Prof. Guvi', 'faculty', 'faculty123', 'CSE');
 
 INSERT INTO subject(subject_name, course_id, faculty_id)
 VALUES ('Data Structures', 1, 1);
 
 INSERT INTO student(name, email, password, course, semester)
-VALUES ('Rahul Kumar', 'rahul@student.edu', 'stud123', 'B.Tech Computer Science', 3);
+VALUES ('Scarce', 'student', 'student123', 'B.Tech Computer Science', 3);
