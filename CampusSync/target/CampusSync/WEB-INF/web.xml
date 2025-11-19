@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app
+        xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+        version="3.1">
+
+    <display-name>CampusSync</display-name>
+
+    <!-- Auth Servlet -->
+    <servlet>
+        <servlet-name>AuthServlet</servlet-name>
+        <servlet-class>com.campussync.servlet.AuthServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>AuthServlet</servlet-name>
+        <url-pattern>/auth</url-pattern>
+    </servlet-mapping>
+
+
+    <!-- Student Servlet -->
+    <servlet>
+        <servlet-name>StudentServlet</servlet-name>
+        <servlet-class>com.campussync.servlet.StudentServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>StudentServlet</servlet-name>
+        <url-pattern>/student</url-pattern>
+    </servlet-mapping>
+
+
+    <!-- Faculty Servlet -->
+    <servlet>
+        <servlet-name>FacultyServlet</servlet-name>
+        <servlet-class>com.campussync.servlet.FacultyServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>FacultyServlet</servlet-name>
+        <url-pattern>/faculty</url-pattern>
+    </servlet-mapping>
+
+
+    <!-- Admin Servlet -->
+    <servlet>
+        <servlet-name>AdminServlet</servlet-name>
+        <servlet-class>com.campussync.servlet.AdminServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>AdminServlet</servlet-name>
+        <url-pattern>/adminPanel</url-pattern>
+    </servlet-mapping>
+
+    <!-- COURSE SERVLET -->
+    <servlet>
+        <servlet-name>CourseServlet</servlet-name>
+        <servlet-class>com.campussync.servlet.CourseServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CourseServlet</servlet-name>
+        <url-pattern>/CourseServlet</url-pattern>
+    </servlet-mapping>
+
+    <!-- SUBJECT SERVLET -->
+    <servlet>
+        <servlet-name>SubjectServlet</servlet-name>
+        <servlet-class>com.campussync.servlet.SubjectServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SubjectServlet</servlet-name>
+        <url-pattern>/SubjectServlet</url-pattern>
+    </servlet-mapping>
+
+    <!-- Welcome, Page -->
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+
+</web-app>

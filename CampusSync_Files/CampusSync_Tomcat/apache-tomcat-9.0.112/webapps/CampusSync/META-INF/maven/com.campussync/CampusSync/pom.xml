@@ -1,0 +1,64 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                             http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <!-- Project Metadata -->
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.campussync</groupId>
+    <artifactId>CampusSync</artifactId>
+    <version>1.0</version>
+
+    <!-- Packaging for Java Web Application -->
+    <packaging>war</packaging>
+
+    <!-- Dependencies -->
+    <dependencies>
+
+        <!-- Servlet API (provided by server like Tomcat) -->
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>javax.servlet-api</artifactId>
+            <version>4.0.1</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <!-- JSTL for JSP -->
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>jstl</artifactId>
+            <version>1.2</version>
+        </dependency>
+
+        <!-- MySQL Connector/J for JDBC -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.33</version>
+        </dependency>
+
+    </dependencies>
+
+    <!-- Build Configuration -->
+    <build>
+        <finalName>CampusSync</finalName>
+
+        <plugins>
+
+            <!-- Maven WAR Plugin -->
+            <plugin>
+                <artifactId>maven-war-plugin</artifactId>
+                <version>3.3.2</version>
+                <configuration>
+                    <!-- Webapp folder containing JSP/HTML/CSS -->
+                    <warSourceDirectory>src/main/webapp</warSourceDirectory>
+
+                    <!-- Using annotations instead of web.xml -->
+                    <failOnMissingWebXml>false</failOnMissingWebXml>
+                </configuration>
+            </plugin>
+
+        </plugins>
+    </build>
+
+</project>

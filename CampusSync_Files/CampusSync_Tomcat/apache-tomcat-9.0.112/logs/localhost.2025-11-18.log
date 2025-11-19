@@ -1,0 +1,3333 @@
+18-Nov-2025 08:04:53.917 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 08:04:53.917 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 08:04:53.917 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@1305c126')
+18-Nov-2025 08:52:47.911 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+18-Nov-2025 08:52:47.912 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+18-Nov-2025 08:52:55.112 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 08:52:55.112 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 08:52:55.112 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@36480b2d')
+18-Nov-2025 09:01:47.414 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+18-Nov-2025 09:01:47.414 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+18-Nov-2025 09:01:56.231 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 09:01:56.231 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 09:01:56.246 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@68ab0936')
+18-Nov-2025 09:11:33.877 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+18-Nov-2025 09:11:33.877 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+18-Nov-2025 09:11:40.377 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 09:11:40.377 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 09:11:40.377 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@517a2b0')
+18-Nov-2025 09:30:12.600 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+18-Nov-2025 09:30:12.601 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+18-Nov-2025 09:30:21.240 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 09:30:21.241 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 09:30:21.246 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7b948f3e')
+18-Nov-2025 12:04:03.403 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 12:04:03.404 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 12:04:03.411 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@671d1157')
+18-Nov-2025 12:08:13.162 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 12:08:13.162 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 12:08:13.177 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2f84acf7')
+18-Nov-2025 13:11:19.481 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 13:11:19.481 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 13:11:19.481 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@32130e61')
+18-Nov-2025 14:03:36.294 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 14:03:36.295 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 14:03:36.302 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@25aeb5ac')
+18-Nov-2025 14:15:59.937 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 14:15:59.938 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 14:15:59.944 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@250a500b')
+18-Nov-2025 14:32:22.102 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 14:32:22.103 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 14:32:22.109 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@27d33393')
+18-Nov-2025 14:57:18.212 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 14:57:18.213 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 14:57:18.216 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7efb53af')
+18-Nov-2025 15:17:32.527 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 15:17:32.529 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 15:17:32.536 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2a369e14')
+18-Nov-2025 15:17:47.796 SEVERE [http-nio-8080-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/CampusSync] threw exception [org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", delete this token
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token ",", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [195] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+192:             %>
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+
+
+An error occurred at line: [196] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [199] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+
+
+An error occurred at line: [200] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+203: 
+
+
+An error occurred at line: [205] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+202:             </tr>
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+
+
+An error occurred at line: [206] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "else", { expected
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [360] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [365] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [366] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [368] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [374] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [375] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", delete this token
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token ",", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [195] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+192:             %>
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+
+
+An error occurred at line: [196] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [199] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+
+
+An error occurred at line: [200] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+203: 
+
+
+An error occurred at line: [205] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+202:             </tr>
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+
+
+An error occurred at line: [206] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "else", { expected
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [360] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [365] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [366] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [368] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [374] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [375] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:571)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:365)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:337)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:323)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:585)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:371)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:349)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:300)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1831)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+18-Nov-2025 15:17:56.237 SEVERE [http-nio-8080-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/CampusSync] threw exception [org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", delete this token
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token ",", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [195] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+192:             %>
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+
+
+An error occurred at line: [196] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [199] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+
+
+An error occurred at line: [200] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+203: 
+
+
+An error occurred at line: [205] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+202:             </tr>
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+
+
+An error occurred at line: [206] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "else", { expected
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [360] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [365] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [366] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [368] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [374] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [375] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", delete this token
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token ",", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [195] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+192:             %>
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+
+
+An error occurred at line: [196] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [199] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+
+
+An error occurred at line: [200] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+203: 
+
+
+An error occurred at line: [205] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+202:             </tr>
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+
+
+An error occurred at line: [206] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "else", { expected
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [360] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [365] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [366] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [368] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [374] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [375] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:571)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:365)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:337)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:323)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:585)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:371)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:349)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:300)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1831)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+18-Nov-2025 15:17:59.025 SEVERE [http-nio-8080-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/CampusSync] threw exception [org.apache.jasper.JasperException: java.lang.ClassNotFoundException: org.apache.jsp.admin.manage_005fcourses_jsp] with root cause
+	java.lang.ClassNotFoundException: org.apache.jsp.admin.manage_005fcourses_jsp
+		at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:116)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:53)
+		at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:150)
+		at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:166)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:385)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:349)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:300)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1831)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+18-Nov-2025 15:18:00.652 SEVERE [http-nio-8080-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/CampusSync] threw exception [org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", delete this token
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token ",", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [195] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+192:             %>
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+
+
+An error occurred at line: [196] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [199] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+
+
+An error occurred at line: [200] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+203: 
+
+
+An error occurred at line: [205] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+202:             </tr>
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+
+
+An error occurred at line: [206] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "else", { expected
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [360] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [365] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [366] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [368] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [374] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [375] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", delete this token
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token ",", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [195] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+192:             %>
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+
+
+An error occurred at line: [196] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [199] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+
+
+An error occurred at line: [200] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+203: 
+
+
+An error occurred at line: [205] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+202:             </tr>
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+
+
+An error occurred at line: [206] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "else", { expected
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [360] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [365] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [366] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [368] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [374] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [375] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:571)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:365)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:337)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:323)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:585)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:371)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:349)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:300)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1831)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+18-Nov-2025 15:18:05.400 SEVERE [http-nio-8080-exec-6] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/CampusSync] threw exception [org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", delete this token
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token ",", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [195] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+192:             %>
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+
+
+An error occurred at line: [196] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [199] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+
+
+An error occurred at line: [200] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+203: 
+
+
+An error occurred at line: [205] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+202:             </tr>
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+
+
+An error occurred at line: [206] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "else", { expected
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [360] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [365] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [366] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [368] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [374] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [375] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", delete this token
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token ",", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [195] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+192:             %>
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+
+
+An error occurred at line: [196] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [199] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+
+
+An error occurred at line: [200] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+203: 
+
+
+An error occurred at line: [205] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+202:             </tr>
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+
+
+An error occurred at line: [206] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "else", { expected
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [360] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [365] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [366] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [368] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [374] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [375] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:571)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:365)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:337)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:323)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:585)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:371)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:349)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:300)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1831)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+18-Nov-2025 15:18:07.563 SEVERE [http-nio-8080-exec-7] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/CampusSync] threw exception [org.apache.jasper.JasperException: java.lang.ClassNotFoundException: org.apache.jsp.admin.manage_005fcourses_jsp] with root cause
+	java.lang.ClassNotFoundException: org.apache.jsp.admin.manage_005fcourses_jsp
+		at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:116)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:53)
+		at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:150)
+		at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:166)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:385)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:349)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:300)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1831)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+18-Nov-2025 15:18:08.451 SEVERE [http-nio-8080-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [jsp] in context with path [/CampusSync] threw exception [org.apache.jasper.JasperException: java.lang.ClassNotFoundException: org.apache.jsp.admin.manage_005fcourses_jsp] with root cause
+	java.lang.ClassNotFoundException: org.apache.jsp.admin.manage_005fcourses_jsp
+		at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:116)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:53)
+		at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:150)
+		at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:166)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:385)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:349)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:300)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1831)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+18-Nov-2025 15:18:40.552 SEVERE [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationDispatcher.invoke Servlet.service() for servlet [jsp] threw exception
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", delete this token
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token ",", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [195] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+192:             %>
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+
+
+An error occurred at line: [196] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [199] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+
+
+An error occurred at line: [200] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+203: 
+
+
+An error occurred at line: [205] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+202:             </tr>
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+
+
+An error occurred at line: [206] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "else", { expected
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [360] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [365] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [366] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [368] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [374] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [375] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:571)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:365)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:337)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:323)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:585)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:371)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:349)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:300)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:619)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:399)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:338)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:283)
+		at com.campussync.servlet.AdminServlet.doGet(AdminServlet.java:66)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:529)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1831)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+18-Nov-2025 15:18:40.552 SEVERE [http-nio-8080-exec-5] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [AdminServlet] in context with path [/CampusSync] threw exception [org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", delete this token
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token ",", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [195] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+192:             %>
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+
+
+An error occurred at line: [196] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [199] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+
+
+An error occurred at line: [200] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+203: 
+
+
+An error occurred at line: [205] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+202:             </tr>
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+
+
+An error occurred at line: [206] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "else", { expected
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [360] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [365] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [366] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [368] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [374] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [375] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", delete this token
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token ",", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [189] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "...", ; expected
+186:             <%
+187:                List<Course> courses = (List<Course>) request.getAttribute("courseData");
+188:                for (Course c : courses) {
+189:                    ... c.getCourseId(), c.getCourseName() ...
+190:                }
+191: 
+192:             %>
+
+
+An error occurred at line: [195] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+192:             %>
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+
+
+An error occurred at line: [196] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+193: 
+194:             <tr>
+195:                 <td><%= c.getCourseId() %></td>
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [199] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+196:                 <td><%= c.getCourseName() %></td>
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+
+
+An error occurred at line: [200] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+197: 
+198:                 <td class="actions">
+199:                     <a href="edit_course.jsp?id=<%= c.getCourseId() %>">Edit</a>
+200:                     <a href="delete_course.jsp?id=<%= c.getCourseId() %>" class="delete">Delete</a>
+201:                 </td>
+202:             </tr>
+203: 
+
+
+An error occurred at line: [205] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error, insert "Finally" to complete TryStatement
+202:             </tr>
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+
+
+An error occurred at line: [206] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "else", { expected
+203: 
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [207] in the jsp file: [/admin/manage_courses.jsp]
+out cannot be resolved
+204:             <%
+205:                     }
+206:                 } else {
+207:             %>
+208: 
+209:             <tr>
+210:                 <td colspan="3" style="text-align:center; padding:20px;">No courses available</td>
+
+
+An error occurred at line: [360] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [362] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [363] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [365] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [366] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [368] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [371] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [374] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [375] in the generated java file: [C:\Users\User\Desktop\HELP\PROJECT_GUVI\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\work\Catalina\localhost\CampusSync\org\apache\jsp\admin\manage_005fcourses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:571)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:365)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:337)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:323)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:585)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:371)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:349)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:300)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:619)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:399)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:338)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:283)
+		at com.campussync.servlet.AdminServlet.doGet(AdminServlet.java:66)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:529)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1831)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+18-Nov-2025 15:25:38.391 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 15:25:38.391 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 15:25:38.399 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@25aeb5ac')
+18-Nov-2025 15:26:50.230 SEVERE [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationDispatcher.invoke Servlet.service() for servlet [jsp] threw exception
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [150] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+147:                     for (Course c : courses) {
+148:             %>
+149:             <tr>
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [151] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+148:             %>
+149:             <tr>
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+
+
+An error occurred at line: [153] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "%", Expression expected after this token
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+155:                 </td>
+156:             </tr>
+
+
+An error occurred at line: [154] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "%", Expression expected after this token
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+155:                 </td>
+156:             </tr>
+157:             <%
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:571)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:365)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:337)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:323)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:585)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:371)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:349)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:300)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:619)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:399)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:338)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:283)
+		at com.campussync.servlet.AdminServlet.doGet(AdminServlet.java:66)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:529)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1831)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+18-Nov-2025 15:26:50.231 SEVERE [http-nio-8080-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [AdminServlet] in context with path [/CampusSync] threw exception [org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [150] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+147:                     for (Course c : courses) {
+148:             %>
+149:             <tr>
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [151] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+148:             %>
+149:             <tr>
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+
+
+An error occurred at line: [153] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "%", Expression expected after this token
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+155:                 </td>
+156:             </tr>
+
+
+An error occurred at line: [154] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "%", Expression expected after this token
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+155:                 </td>
+156:             </tr>
+157:             <%
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [150] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+147:                     for (Course c : courses) {
+148:             %>
+149:             <tr>
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [151] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+148:             %>
+149:             <tr>
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+
+
+An error occurred at line: [153] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "%", Expression expected after this token
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+155:                 </td>
+156:             </tr>
+
+
+An error occurred at line: [154] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "%", Expression expected after this token
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+155:                 </td>
+156:             </tr>
+157:             <%
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:571)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:365)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:337)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:323)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:585)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:371)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:349)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:300)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:619)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:399)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:338)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:283)
+		at com.campussync.servlet.AdminServlet.doGet(AdminServlet.java:66)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:529)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1831)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+18-Nov-2025 15:27:00.513 SEVERE [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationDispatcher.invoke Servlet.service() for servlet [jsp] threw exception
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [150] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+147:                     for (Course c : courses) {
+148:             %>
+149:             <tr>
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [151] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+148:             %>
+149:             <tr>
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+
+
+An error occurred at line: [153] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "%", Expression expected after this token
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+155:                 </td>
+156:             </tr>
+
+
+An error occurred at line: [154] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "%", Expression expected after this token
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+155:                 </td>
+156:             </tr>
+157:             <%
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:571)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:365)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:337)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:323)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:585)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:371)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:349)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:300)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:619)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:399)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:338)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:283)
+		at com.campussync.servlet.AdminServlet.doGet(AdminServlet.java:66)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:529)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1831)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+18-Nov-2025 15:27:00.513 SEVERE [http-nio-8080-exec-9] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [AdminServlet] in context with path [/CampusSync] threw exception [org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [150] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+147:                     for (Course c : courses) {
+148:             %>
+149:             <tr>
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [151] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+148:             %>
+149:             <tr>
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+
+
+An error occurred at line: [153] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "%", Expression expected after this token
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+155:                 </td>
+156:             </tr>
+
+
+An error occurred at line: [154] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "%", Expression expected after this token
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+155:                 </td>
+156:             </tr>
+157:             <%
+
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [150] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+147:                     for (Course c : courses) {
+148:             %>
+149:             <tr>
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+
+
+An error occurred at line: [151] in the jsp file: [/admin/manage_courses.jsp]
+c cannot be resolved
+148:             %>
+149:             <tr>
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+
+
+An error occurred at line: [153] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "%", Expression expected after this token
+150:                 <td><%= c.getCourseId() %></td>
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+155:                 </td>
+156:             </tr>
+
+
+An error occurred at line: [154] in the jsp file: [/admin/manage_courses.jsp]
+Syntax error on token "%", Expression expected after this token
+151:                 <td><%= c.getCourseName() %></td>
+152:                 <td class="actions">
+153:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
+154:                     <a href="<%= request.getContextPath() % %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+155:                 </td>
+156:             </tr>
+157:             <%
+
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:571)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:365)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:337)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:323)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:585)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:371)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:349)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:300)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:619)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:399)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:338)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:283)
+		at com.campussync.servlet.AdminServlet.doGet(AdminServlet.java:66)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:529)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1831)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+18-Nov-2025 15:27:03.709 SEVERE [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationDispatcher.invoke Servlet.service() for servlet [jsp] threw exception
+	java.lang.ClassNotFoundException: org.apache.jsp.admin.manage_005fcourses_jsp
+		at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:116)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:53)
+		at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:150)
+		at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:166)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:385)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:349)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:300)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:619)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:399)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:338)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:283)
+		at com.campussync.servlet.AdminServlet.doGet(AdminServlet.java:66)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:529)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1831)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+18-Nov-2025 15:27:03.709 SEVERE [http-nio-8080-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [AdminServlet] in context with path [/CampusSync] threw exception [org.apache.jasper.JasperException: java.lang.ClassNotFoundException: org.apache.jsp.admin.manage_005fcourses_jsp] with root cause
+	java.lang.ClassNotFoundException: org.apache.jsp.admin.manage_005fcourses_jsp
+		at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:116)
+		at org.apache.jasper.servlet.JasperLoader.loadClass(JasperLoader.java:53)
+		at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:150)
+		at org.apache.jasper.servlet.JspServletWrapper.getServlet(JspServletWrapper.java:166)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:385)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:349)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:300)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:619)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:399)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:338)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:283)
+		at com.campussync.servlet.AdminServlet.doGet(AdminServlet.java:66)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:529)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:935)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1831)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+18-Nov-2025 15:33:13.646 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 15:33:13.646 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 15:33:13.653 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2a369e14')
+18-Nov-2025 15:40:15.881 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 15:40:15.882 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 15:40:15.890 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@50fb33a')
+18-Nov-2025 15:47:27.588 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 15:47:27.588 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 15:47:27.603 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@c755b2')
+18-Nov-2025 15:53:37.019 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 15:53:37.019 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 15:53:37.019 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7efb53af')
+18-Nov-2025 15:57:32.390 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 15:57:32.405 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 15:57:32.411 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@75d982d3')
+18-Nov-2025 16:02:28.395 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 16:02:28.395 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 16:02:28.403 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@25aeb5ac')
+18-Nov-2025 16:35:23.950 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 16:35:23.951 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 16:35:23.960 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@a098d76')
+18-Nov-2025 16:38:51.216 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 16:38:51.216 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 16:38:51.216 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@250a500b')
+18-Nov-2025 17:11:16.897 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 17:11:16.897 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 17:11:16.912 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2a369e14')
+18-Nov-2025 18:17:56.733 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 18:17:56.734 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 18:17:56.740 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@c755b2')
+18-Nov-2025 20:43:33.650 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 20:43:33.650 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 20:43:33.666 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@618ff5c2')
+18-Nov-2025 20:47:53.033 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 20:47:53.033 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 20:47:53.034 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@7efb53af')
+18-Nov-2025 23:10:09.626 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 23:10:09.641 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 23:10:09.641 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@72f9f27c')
+18-Nov-2025 23:16:51.758 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+18-Nov-2025 23:16:51.758 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+18-Nov-2025 23:16:51.773 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@32130e61')
