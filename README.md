@@ -263,14 +263,6 @@ CampusSync/
 
 ---
 
-Bilkul Scarce —
-yaha **pure tarike se styled, clean, professional aur dark-vibe friendly** `.md` format mai *Deployment & Setup* section de raha hoon.
-
-Bas jaise ka taisa README mai paste kar dena.
-No formatting issues, no errors — fully markdown compliant.
-
----
-
 # 🚀 Deployment & Setup
 
 Below are the **actual installation steps** required to run the *Campus Sync* system properly on your machine.
