@@ -319,10 +319,10 @@ http://localhost:8080/CampusSync/
 | Role    | Username | Password |
 | ------- | -------- | -------- |
 | Admin   | admin    | admin123 |
-| Faculty | faculty1 | pass123  |
-| Student | student1 | pass123  |
+| Faculty | faculty | faculty123  |
+| Student | student | student123  |
 
-(Adjust based on your SQL data.)
+(You can also Adjust credentials based on your updated SQL data.)
 
 ---
 
@@ -331,9 +331,22 @@ http://localhost:8080/CampusSync/
 **Campus Sync** provides a modern, modular, and scalable approach to managing essential academic workflows.
 Its layered design, clean architecture, and multi-role structure make it ideal for real-world deployment as well as academic project submission.
 
+---
+## 💡 Contribute
+
+- Fork the repo
+- Make your changes
+- Submit a pull request 
+
+---
+
 # 🏁 Final Note
 
 <p align="center"><b><i>"Campus Sync — A structured solution for a structured campus."</i></b></p>
+
+---
+
+## 🌟 Developed with 💻 and ☕ by [OG-SCARCE](https://github.com/OG-SCARCE)
 
 <p align="center">
   <img src="https://www.guvi.in/assets/ClRfE5Qq-guvi-logo.webp" width="280" alt="Guvi Logo"/>
