@@ -352,7 +352,7 @@ CampusSync/
 Inside the extracted folder, find:
 
 ```
-startup.bat
+StartServer.bat
 ```
 
 Double-click it.
