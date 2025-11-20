@@ -265,3 +265,12 @@
 0:0:0:0:0:0:0:1 - - [19/Nov/2025:12:51:20 +0530] "GET /CampusSync/auth?action=logout HTTP/1.1" 302 -
 0:0:0:0:0:0:0:1 - - [19/Nov/2025:12:51:20 +0530] "GET /CampusSync/index.jsp HTTP/1.1" 200 9758
 0:0:0:0:0:0:0:1 - - [19/Nov/2025:12:51:22 +0530] "GET /CampusSync/login.jsp HTTP/1.1" 200 6600
+0:0:0:0:0:0:0:1 - - [19/Nov/2025:16:50:15 +0530] "GET /CampusSync/ HTTP/1.1" 200 9758
+0:0:0:0:0:0:0:1 - - [19/Nov/2025:16:50:23 +0530] "GET /CampusSync/login.jsp HTTP/1.1" 200 6600
+0:0:0:0:0:0:0:1 - - [19/Nov/2025:16:50:33 +0530] "POST /CampusSync/auth HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Nov/2025:16:50:33 +0530] "GET /CampusSync/admin/dashboard.jsp HTTP/1.1" 200 6502
+0:0:0:0:0:0:0:1 - - [19/Nov/2025:16:50:45 +0530] "GET /CampusSync/adminPanel?action=students HTTP/1.1" 200 7565
+0:0:0:0:0:0:0:1 - - [19/Nov/2025:16:50:55 +0530] "GET /CampusSync/adminPanel HTTP/1.1" 200 6502
+0:0:0:0:0:0:0:1 - - [19/Nov/2025:16:50:58 +0530] "GET /CampusSync/adminPanel?action=notices HTTP/1.1" 200 2469
+0:0:0:0:0:0:0:1 - - [19/Nov/2025:16:51:06 +0530] "GET /CampusSync/auth?action=logout HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Nov/2025:16:51:06 +0530] "GET /CampusSync/index.jsp HTTP/1.1" 200 9758
