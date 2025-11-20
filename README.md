@@ -263,6 +263,55 @@ CampusSync/
 
 ---
 
+# 🛠️ Pre-Requisites (Must-Have Before Running Campus Sync)
+
+Before you run the project, make sure your system meets the following requirements:
+
+### **1️⃣ Java JDK 17 Installed**
+
+Your PC must have **JDK 17** installed.
+
+✔ Add `JAVA_HOME` in **Environment Variables**
+✔ Add the JDK **bin** path inside the **Path** variable
+
+Example:
+
+```
+JAVA_HOME = C:\Program Files\Java\jdk-17
+Path → Add → C:\Program Files\Java\jdk-17\bin
+```
+
+Without this, Tomcat will **not** start.
+
+---
+
+### **2️⃣ MySQL Installed & Running**
+
+Your system must have **MySQL Server** installed.
+
+**Default Credentials Required by the Project:**
+
+```
+username = root
+password = 1234
+```
+
+If your MySQL username/password are different, then update them inside:
+
+```
+CampusSync/src/main/java/com/campussync/util/DBConnection.java
+```
+
+Modify the line:
+
+```java
+Connection con = DriverManager.getConnection(
+    "jdbc:mysql://localhost:3306/campussync", "YOUR_USERNAME", "YOUR_PASSWORD"
+);
+```
+
+---
+
 # 🚀 Deployment & Setup
 
 Below are the **actual installation steps** required to run the *Campus Sync* system properly on your machine.
