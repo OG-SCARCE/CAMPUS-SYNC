@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [25/Nov/2025:06:04:54 +0530] "GET /CampusSync/ HTTP/1.1" 200 9758
+0:0:0:0:0:0:0:1 - - [25/Nov/2025:06:04:58 +0530] "GET /CampusSync/login.jsp HTTP/1.1" 200 6600
+0:0:0:0:0:0:0:1 - - [25/Nov/2025:06:05:18 +0530] "POST /CampusSync/auth HTTP/1.1" 200 6673
+0:0:0:0:0:0:0:1 - - [25/Nov/2025:06:05:33 +0530] "POST /CampusSync/auth HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/Nov/2025:06:05:33 +0530] "GET /CampusSync/admin/dashboard.jsp HTTP/1.1" 200 6502
+0:0:0:0:0:0:0:1 - - [25/Nov/2025:06:05:41 +0530] "GET /CampusSync/adminPanel?action=courses HTTP/1.1" 200 4318
