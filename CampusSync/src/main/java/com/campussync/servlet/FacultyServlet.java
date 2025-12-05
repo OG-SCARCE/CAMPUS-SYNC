@@ -111,23 +111,20 @@ public class FacultyServlet extends HttpServlet {
                 // ===============================
                 case "saveAttendance":
 
-                    String[] studentIds = req.getParameterValues("student");
+                    int studentId = Integer.parseInt(req.getParameter("student"));
                     int subjectId = Integer.parseInt(req.getParameter("subject_id"));
-                    String date = req.getParameter("date");
+                    String attendanceDate = req.getParameter("date");
+                    String attendanceStatus = req.getParameter("status");  // Get status from form instead of hardcoding "P"
 
                     PreparedStatement ps = conn.prepareStatement(
                             "INSERT INTO attendance(student_id, subject_id, att_date, status) VALUES(?,?,?,?)"
                     );
+                    ps.setInt(1, studentId);
+                    ps.setInt(2, subjectId);
+                    ps.setDate(3, Date.valueOf(attendanceDate));
+                    ps.setString(4, attendanceStatus);  // Use the actual status value (P or A)
+                    ps.executeUpdate();
 
-                    for (String sid : studentIds) {
-                        ps.setInt(1, Integer.parseInt(sid));
-                        ps.setInt(2, subjectId);
-                        ps.setDate(3, Date.valueOf(date));
-                        ps.setString(4, "P");
-                        ps.addBatch();
-                    }
-
-                    ps.executeBatch();
                     resp.sendRedirect(req.getContextPath() + "/faculty?action=attendance&msg=Saved");
                     return;
 

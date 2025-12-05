@@ -45,10 +45,9 @@ public class DBConnection {
     static {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");  // MySQL 8+ driver
+            Logger.info("MySQL JDBC Driver loaded successfully");
         } catch (ClassNotFoundException e) {
-            System.err.println("ERROR: MySQL JDBC Driver not found. " +
-                    "Ensure mysql-connector-j.jar is in the classpath.");
-            e.printStackTrace();
+            Logger.error("MySQL JDBC Driver not found", e);
         }
     }
 
@@ -61,7 +60,14 @@ public class DBConnection {
     // Caller (DAO/Servlet) MUST close the connection after use.
     // ---------------------------------------------------------------------
     public static Connection getConnection() throws SQLException {
-        return DriverManager.getConnection(URL, USER, PASS);
+        try {
+            Connection conn = DriverManager.getConnection(URL, USER, PASS);
+            Logger.debug("Database connection established");
+            return conn;
+        } catch (SQLException e) {
+            Logger.error("Failed to establish database connection", e);
+            throw e;
+        }
     }
 
     // ---------------------------------------------------------------------

@@ -1,7 +1,9 @@
-<%@ page import="java.sql.ResultSet" %>
+<%@ page import="java.util.List" %>
+<%@ page import="com.campussync.model.Student" %>
 
 <%
     javax.servlet.http.HttpSession s = request.getSession(false);
+
     if (s == null || !"admin".equals(s.getAttribute("role"))) {
         response.sendRedirect(request.getContextPath() + "/login.jsp");
         return;
@@ -26,7 +28,6 @@
             color: #2d3748;
         }
 
-        /* Added modern header styling */
         .header {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
@@ -36,48 +37,24 @@
         }
 
         @keyframes slideDown {
-            from {
-                opacity: 0;
-                transform: translateY(-20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
         }
 
         .back-arrow {
             display: inline-block;
             margin-right: 6px;
-            animation: slideInLeft 0.4s ease-out;
             transition: transform 0.3s;
-        }
-
-        @keyframes slideInLeft {
-            from {
-                opacity: 0;
-                transform: translateX(-10px);
-            }
-            to {
-                opacity: 1;
-                transform: translateX(0);
-            }
-        }
-
-        .header a:hover .back-arrow {
-            transform: translateX(-3px);
         }
 
         .header a {
             color: rgba(255, 255, 255, 0.9);
             text-decoration: none;
             font-size: 14px;
-            transition: opacity 0.3s;
             display: inline-flex;
             align-items: center;
         }
 
-        /* Modernized form styling */
         .form-section {
             background: white;
             padding: 30px;
@@ -89,14 +66,8 @@
         }
 
         @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
         }
 
         .table-section {
@@ -130,10 +101,6 @@
             color: #4a5568;
         }
 
-        table tr {
-            transition: all 0.2s ease-out;
-        }
-
         table tr:hover {
             background: #f7fafc;
             box-shadow: inset 0 0 10px rgba(102, 126, 234, 0.08);
@@ -164,23 +131,10 @@
             transition: all 0.3s;
         }
 
-        input[type="text"]:focus,
-        input[type="email"]:focus,
-        input[type="password"]:focus,
-        input[type="number"]:focus {
+        input:focus {
             outline: none;
             border-color: #667eea;
             box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
-            animation: inputFocus 0.3s ease-out;
-        }
-
-        @keyframes inputFocus {
-            from {
-                box-shadow: 0 0 0 0px rgba(102, 126, 234, 0.2);
-            }
-            to {
-                box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
-            }
         }
 
         button {
@@ -199,19 +153,12 @@
         button:hover {
             transform: translateY(-3px);
             box-shadow: 0 8px 16px rgba(102, 126, 234, 0.35);
-            animation: buttonShine 0.6s ease-out;
         }
 
-        @keyframes buttonShine {
-            0% {
-                box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
-            }
-            50% {
-                box-shadow: 0 8px 20px rgba(102, 126, 234, 0.5);
-            }
-            100% {
-                box-shadow: 0 8px 16px rgba(102, 126, 234, 0.35);
-            }
+        .container {
+            padding: 40px 30px;
+            max-width: 1200px;
+            margin: 0 auto;
         }
     </style>
 </head>
@@ -220,7 +167,6 @@
 
 <div class="header">
     <h2>Manage Students</h2>
-    <!-- Added SVG back arrow icon -->
     <a href="<%= request.getContextPath() %>/adminPanel">
         <svg class="back-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width: 18px; height: 18px;">
             <polyline points="15 18 9 12 15 6"></polyline>
@@ -278,20 +224,26 @@
             </tr>
 
             <%
-                ResultSet rs = (ResultSet) request.getAttribute("students");
+                List<Student> students = (List<Student>) request.getAttribute("students");
 
-                while (rs != null && rs.next()) {
+                if (students != null && !students.isEmpty()) {
+                    for (Student student : students) {
             %>
                 <tr>
-                    <td><%= rs.getInt("student_id") %></td>
-                    <td><%= rs.getString("name") %></td>
-                    <td><%= rs.getString("email") %></td>
-                    <td><%= rs.getString("course") %></td>
-                    <td><%= rs.getInt("semester") %></td>
+                    <td><%= student.getStudentId() %></td>
+                    <td><%= student.getName() %></td>
+                    <td><%= student.getEmail() %></td>
+                    <td><%= student.getCourse() %></td>
+                    <td><%= student.getSemester() %></td>
                 </tr>
             <%
-                }
+                    }
+                } else {
             %>
+                <tr>
+                    <td colspan="5" style="text-align:center; padding:20px;">No students available</td>
+                </tr>
+            <% } %>
 
         </table>
     </div>

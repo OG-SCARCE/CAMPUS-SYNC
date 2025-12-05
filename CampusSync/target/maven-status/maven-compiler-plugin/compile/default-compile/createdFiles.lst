@@ -5,12 +5,15 @@ com\campussync\model\Faculty.class
 com\campussync\servlet\FacultyServlet.class
 com\campussync\servlet\AdminServlet.class
 com\campussync\dao\CourseDAO.class
+com\campussync\model\Assignment.class
 com\campussync\dao\FacultyDAO.class
+com\campussync\util\Logger.class
 com\campussync\model\Student.class
 com\campussync\servlet\SubjectServlet.class
 com\campussync\model\Course.class
 com\campussync\dao\SubjectDAO.class
 com\campussync\servlet\AuthServlet.class
+com\campussync\util\TransactionManager.class
 com\campussync\servlet\AssignmentServlet.class
 com\campussync\util\DBConnection.class
 com\campussync\model\Subject.class

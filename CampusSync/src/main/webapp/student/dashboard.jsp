@@ -96,6 +96,7 @@
 
         .options-grid .option-card:nth-child(1) { animation-delay: 0.1s; }
         .options-grid .option-card:nth-child(2) { animation-delay: 0.2s; }
+        .options-grid .option-card:nth-child(3) { animation-delay: 0.3s; }
 
         .option-card:hover {
             transform: translateY(-8px) scale(1.02);
@@ -200,11 +201,17 @@
             <p>View Latest Updates and Notices</p>
         </div>
 
-
         <div class="option-card">
             <div class="icon"><i class="fas fa-chart-bar"></i></div>
             <a href="<%= request.getContextPath() %>/student?action=marks">View Marks</a>
             <p>Check your grades and marks</p>
+        </div>
+
+        <!-- New card for submitting assignments -->
+        <div class="option-card">
+            <div class="icon"><i class="fas fa-paper-plane"></i></div>
+            <a href="<%= request.getContextPath() %>/student?action=submitAssignment">Submit Assignment</a>
+            <p>Submit your assignments</p>
         </div>
     </div>
 </div>

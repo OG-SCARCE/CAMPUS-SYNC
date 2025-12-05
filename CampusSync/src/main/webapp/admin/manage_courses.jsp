@@ -119,7 +119,8 @@
     <div class="form-section">
         <h3>Add New Course</h3>
 
-        <form action="<%= request.getContextPath() %>/CourseServlet" method="post">
+        <form action="<%= request.getContextPath() %>/adminPanel" method="post">
+            <input type="hidden" name="action" value="addCourse">
             <div class="form-group">
                 <label>Course Name</label>
                 <input type="text" name="course_name" required>
@@ -144,14 +145,14 @@
                 List<Course> courses = (List<Course>) request.getAttribute("courseData");
 
                 if (courses != null && !courses.isEmpty()) {
-                    for (Course c : courses) {
+                    for (Course course : courses) {
             %>
             <tr>
-                <td><%= c.getCourseId() %></td>
-                <td><%= c.getCourseName() %></td>
+                <td><%= course.getCourseId() %></td>
+                <td><%= course.getCourseName() %></td>
                 <td class="actions">
-                    <a href="<%= request.getContextPath() %>/adminPanel?action=editCourse&id=<%= c.getCourseId() %>">Edit</a>
-                    <a href="<%= request.getContextPath() %>/adminPanel?action=deleteCourse&id=<%= c.getCourseId() %>" class="delete">Delete</a>
+                    <a href="<%= request.getContextPath() %>/adminPanel?action=editCourse&id=<%= course.getCourseId() %>">Edit</a>
+                    <a href="<%= request.getContextPath() %>/adminPanel?action=deleteCourse&id=<%= course.getCourseId() %>" class="delete">Delete</a>
                 </td>
             </tr>
             <%

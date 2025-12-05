@@ -1,0 +1,100 @@
+05-Dec-2025 19:42:52.851 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.112
+05-Dec-2025 19:42:52.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 6 2025 07:46:18 UTC
+05-Dec-2025 19:42:52.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.112.0
+05-Dec-2025 19:42:52.863 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+05-Dec-2025 19:42:52.863 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+05-Dec-2025 19:42:52.864 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Dec-2025 19:42:52.864 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+05-Dec-2025 19:42:52.865 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.16+12-LTS-247
+05-Dec-2025 19:42:52.865 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Dec-2025 19:42:52.866 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112
+05-Dec-2025 19:42:52.866 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112
+05-Dec-2025 19:42:52.889 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+05-Dec-2025 19:42:52.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+05-Dec-2025 19:42:52.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+05-Dec-2025 19:42:52.891 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+05-Dec-2025 19:42:52.892 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+05-Dec-2025 19:42:52.894 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+05-Dec-2025 19:42:52.898 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+05-Dec-2025 19:42:52.899 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\conf\logging.properties
+05-Dec-2025 19:42:52.900 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Dec-2025 19:42:52.901 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Dec-2025 19:42:52.902 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Dec-2025 19:42:52.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+05-Dec-2025 19:42:52.904 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Dec-2025 19:42:52.905 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112
+05-Dec-2025 19:42:52.906 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112
+05-Dec-2025 19:42:52.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\temp
+05-Dec-2025 19:42:52.922 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+05-Dec-2025 19:42:52.922 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+05-Dec-2025 19:42:52.923 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+05-Dec-2025 19:42:52.961 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+05-Dec-2025 19:42:53.700 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Dec-2025 19:42:53.761 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1363] milliseconds
+05-Dec-2025 19:42:53.854 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Dec-2025 19:42:53.855 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.112]
+05-Dec-2025 19:42:53.889 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\CampusSync.war]
+05-Dec-2025 19:42:56.475 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2025 19:42:56.699 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\CampusSync.war] has finished in [2,809] ms
+05-Dec-2025 19:42:56.701 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\docs]
+05-Dec-2025 19:42:56.805 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\docs] has finished in [104] ms
+05-Dec-2025 19:42:56.808 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\examples]
+05-Dec-2025 19:42:57.892 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\examples] has finished in [1,084] ms
+05-Dec-2025 19:42:57.894 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\host-manager]
+05-Dec-2025 19:42:58.002 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\host-manager] has finished in [108] ms
+05-Dec-2025 19:42:58.003 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\manager]
+05-Dec-2025 19:42:58.121 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\manager] has finished in [117] ms
+05-Dec-2025 19:42:58.122 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\ROOT]
+05-Dec-2025 19:42:58.209 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\ROOT] has finished in [86] ms
+05-Dec-2025 19:42:58.219 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Dec-2025 19:42:58.307 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4544] milliseconds
+05-Dec-2025 19:44:28.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.112
+05-Dec-2025 19:44:28.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 6 2025 07:46:18 UTC
+05-Dec-2025 19:44:28.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.112.0
+05-Dec-2025 19:44:28.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+05-Dec-2025 19:44:28.830 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+05-Dec-2025 19:44:28.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Dec-2025 19:44:28.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+05-Dec-2025 19:44:28.831 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.16+12-LTS-247
+05-Dec-2025 19:44:28.832 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Dec-2025 19:44:28.832 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112
+05-Dec-2025 19:44:28.833 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112
+05-Dec-2025 19:44:28.852 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+05-Dec-2025 19:44:28.852 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+05-Dec-2025 19:44:28.853 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+05-Dec-2025 19:44:28.853 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+05-Dec-2025 19:44:28.854 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+05-Dec-2025 19:44:28.855 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+05-Dec-2025 19:44:28.856 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+05-Dec-2025 19:44:28.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\conf\logging.properties
+05-Dec-2025 19:44:28.858 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Dec-2025 19:44:28.859 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Dec-2025 19:44:28.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Dec-2025 19:44:28.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+05-Dec-2025 19:44:28.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Dec-2025 19:44:28.863 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112
+05-Dec-2025 19:44:28.867 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112
+05-Dec-2025 19:44:28.868 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\temp
+05-Dec-2025 19:44:28.876 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+05-Dec-2025 19:44:28.876 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+05-Dec-2025 19:44:28.877 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+05-Dec-2025 19:44:28.889 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+05-Dec-2025 19:44:29.854 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Dec-2025 19:44:30.020 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1592] milliseconds
+05-Dec-2025 19:44:30.156 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Dec-2025 19:44:30.168 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.112]
+05-Dec-2025 19:44:30.226 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\CampusSync.war]
+05-Dec-2025 19:44:32.849 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Dec-2025 19:44:33.042 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\CampusSync.war] has finished in [2,815] ms
+05-Dec-2025 19:44:33.044 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\docs]
+05-Dec-2025 19:44:33.135 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\docs] has finished in [91] ms
+05-Dec-2025 19:44:33.138 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\examples]
+05-Dec-2025 19:44:34.195 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\examples] has finished in [1,057] ms
+05-Dec-2025 19:44:34.197 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\host-manager]
+05-Dec-2025 19:44:34.312 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\host-manager] has finished in [115] ms
+05-Dec-2025 19:44:34.313 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\manager]
+05-Dec-2025 19:44:34.431 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\manager] has finished in [117] ms
+05-Dec-2025 19:44:34.432 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\ROOT]
+05-Dec-2025 19:44:34.504 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\User\Desktop\HELP\CAMPUS-SYNC\CampusSync_Files\CampusSync_Tomcat\apache-tomcat-9.0.112\webapps\ROOT] has finished in [72] ms
+05-Dec-2025 19:44:34.513 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Dec-2025 19:44:34.591 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4551] milliseconds

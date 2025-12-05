@@ -1,4 +1,7 @@
-<%@ page import="java.sql.ResultSet" %>
+<%@ page import="java.util.List" %>
+<%@ page import="com.campussync.model.Subject" %>
+<%@ page import="com.campussync.model.Course" %>
+<%@ page import="com.campussync.model.Faculty" %>
 
 <%
     javax.servlet.http.HttpSession s = request.getSession(false);
@@ -160,7 +163,6 @@
     <div class="form-section">
         <h3>Add New Subject</h3>
 
-        <!-- Updated form to submit through AdminServlet instead of SubjectServlet -->
         <form action="<%= request.getContextPath() %>/adminPanel" method="post">
             <input type="hidden" name="action" value="addSubject">
 
@@ -172,28 +174,58 @@
             <div class="form-group">
                 <label>Select Course</label>
                 <select name="course_id" required>
+                    <option value="">-- Select Course --</option>
                     <%
-                        ResultSet crs = (ResultSet) request.getAttribute("courses");
-                        while (crs != null && crs.next()) {
+                        // The servlet loads all available courses before forwarding to this JSP
+                        List<Course> courses = (List<Course>) request.getAttribute("courses");
+                        
+                        // Check if courses list exists and is not empty
+                        if (courses != null && !courses.isEmpty()) {
+                            // Iterate through each course and create an option element
+                            for (Course course : courses) {
                     %>
-                    <option value="<%= crs.getInt("course_id") %>">
-                        <%= crs.getString("course_name") %>
+                    <!-- Each course is displayed with its ID as the form value -->
+                    <option value="<%= course.getCourseId() %>">
+                        <%= course.getCourseName() %>
                     </option>
-                    <% } %>
+                    <%
+                            }
+                        } else {
+                            // If no courses available, show a disabled message
+                    %>
+                    <option value="" disabled>No courses available</option>
+                    <%
+                        }
+                    %>
                 </select>
             </div>
 
             <div class="form-group">
                 <label>Select Faculty</label>
                 <select name="faculty_id" required>
+                    <option value="">-- Select Faculty --</option>
                     <%
-                        ResultSet frs = (ResultSet) request.getAttribute("faculty");
-                        while (frs != null && frs.next()) {
+                        // The FacultyDAO.getAllFaculty() returns a proper List<Faculty> with faculty_id and name fields
+                        List<Faculty> facultyList = (List<Faculty>) request.getAttribute("faculty");
+                        
+                        // Check if faculty list exists and is not empty
+                        if (facultyList != null && !facultyList.isEmpty()) {
+                            // Iterate through each Faculty object and create an option element
+                            for (Faculty faculty : facultyList) {
                     %>
-                    <option value="<%= frs.getInt("faculty_id") %>">
-                        <%= frs.getString("name") %>
+                    <!-- Each faculty member is displayed with their ID as the form value -->
+                    <option value="<%= faculty.getFacultyId() %>">
+                        <%= faculty.getName() %>
                     </option>
-                    <% } %>
+                    <%
+                            }
+                        } else {
+                            // If no faculty available, show a disabled message
+                    %>
+                    <option value="" disabled>No faculty available</option>
+                    <%
+                        }
+                    %>
                 </select>
             </div>
 
@@ -215,22 +247,29 @@
             </tr>
 
             <%
-                ResultSet rs = (ResultSet) request.getAttribute("subjectData");
-
-                while (rs != null && rs.next()) {
+                // Retrieve the list of all subjects from request attributes
+                // SubjectDAO.getAllSubjectsJoined() returns subjects with joined course and faculty names
+                List<Subject> subjects = (List<Subject>) request.getAttribute("subjectData");
+                
+                if (subjects != null && !subjects.isEmpty()) {
+                    // Display each subject as a table row
+                    for (Subject subject : subjects) {
             %>
             <tr>
-                <td><%= rs.getInt("subject_id") %></td>
-                <td><%= rs.getString("subject_name") %></td>
-                <td><%= rs.getString("course_name") %></td>
-                <td><%= rs.getString("faculty_name") %></td>
+                <td><%= subject.getSubjectId() %></td>
+                <td><%= subject.getSubjectName() %></td>
+                <td><%= subject.getCourseName() %></td>
+                <td><%= subject.getFacultyName() %></td>
 
                 <td class="actions">
-                    <a class="edit" href="edit_subject.jsp?id=<%=rs.getInt("subject_id")%>">Edit</a>
-                    <a class="delete" href="delete_subject.jsp?id=<%=rs.getInt("subject_id")%>">Delete</a>
+                    <a class="edit" href="edit_subject.jsp?id=<%= subject.getSubjectId() %>">Edit</a>
+                    <a class="delete" href="delete_subject.jsp?id=<%= subject.getSubjectId() %>">Delete</a>
                 </td>
             </tr>
-            <% } %>
+            <%
+                    }
+                }
+            %>
 
         </table>
     </div>

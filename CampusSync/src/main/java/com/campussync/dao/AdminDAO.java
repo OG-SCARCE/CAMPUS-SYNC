@@ -1,12 +1,18 @@
 package com.campussync.dao;
 
+import com.campussync.model.Student;
 import com.campussync.util.DBConnection;
 import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * AdminDAO handles all database operations required by the Admin module.
  * This includes login validation, inserting new records (Student/Faculty/Notice),
  * and retrieving lists of existing data.
+ *
+ * Refactored to return List objects instead of ResultSet for better MVC separation
+ * and automatic resource management in JSP views.
  *
  * DAO Layer Purpose:
  * - To separate database logic from servlets (clean MVC structure)
@@ -111,12 +117,40 @@ public class AdminDAO {
     }
 
     /**
-     * Retrieves list of all students.
-     * @return ResultSet containing student details
+     * Retrieves list of all students as a List<Student> object.
+     * Replaced ResultSet with List<Student> for automatic resource management
+     * and elimination of scriptlets in JSP
      *
-     * Working:
-     * - SELECT query fetches student_id, name, email, course, semester
-     * - Servlet loops through ResultSet and sends data to JSP for display
+     * @return List<Student> containing all student records
+     * @throws SQLException if database operation fails
+     */
+    public List<Student> listStudentsAsList() throws SQLException {
+        List<Student> students = new ArrayList<>();
+        String sql = "SELECT student_id, name, email, course, semester FROM student";
+
+        try (Connection conn = DBConnection.getConnection();
+             PreparedStatement ps = conn.prepareStatement(sql);
+             ResultSet rs = ps.executeQuery()) {
+
+            while (rs.next()) {
+                Student s = new Student();
+                s.setStudentId(rs.getInt("student_id"));
+                s.setName(rs.getString("name"));
+                s.setEmail(rs.getString("email"));
+                s.setCourse(rs.getString("course"));
+                s.setSemester(rs.getInt("semester"));
+                students.add(s);
+            }
+        }
+        return students;
+    }
+
+    /**
+     * Retrieves list of all students as ResultSet (backward compatibility).
+     * Deprecated in favor of listStudentsAsList(); kept for compatibility
+     *
+     * @return ResultSet with student details
+     * @throws SQLException if database operation fails
      */
     public ResultSet listStudents() throws SQLException {
         Connection conn = DBConnection.getConnection();
@@ -146,12 +180,15 @@ public class AdminDAO {
         return ps.executeQuery();
     }
 
+    /**
+     * Retrieves all notices ordered by most recent first.
+     * @return ResultSet with notice details
+     * @throws SQLException if database operation fails
+     */
     public ResultSet getAllNotices() throws SQLException {
         Connection con = DBConnection.getConnection();
         String sql = "SELECT notice_id, title, message, posted_at FROM notice ORDER BY posted_at DESC";
         PreparedStatement ps = con.prepareStatement(sql);
         return ps.executeQuery();
     }
-
-
 }
