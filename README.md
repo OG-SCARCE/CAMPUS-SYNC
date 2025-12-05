@@ -265,50 +265,114 @@ CampusSync/
 
 # 🛠️ Pre-Requisites (Must-Have Before Running Campus Sync)
 
-Before you run the project, make sure your system meets the following requirements:
-
-### **1️⃣ Java JDK 17 Installed**
-
-Your PC must have **JDK 17** installed.
-
-✔ Add `JAVA_HOME` in **Environment Variables**
-✔ Add the JDK **bin** path inside the **Path** variable
-
-Example:
-
-```
-JAVA_HOME = C:\Program Files\Java\jdk-17
-Path → Add → C:\Program Files\Java\jdk-17\bin
-```
-
-Without this, Tomcat will **not** start.
+Before running **Campus Sync**, ensure that your system is properly configured with the following requirements. Missing any of these may cause server startup failures or database connectivity issues.
 
 ---
 
-### **2️⃣ MySQL Installed & Running**
+## **1️⃣ Java JDK 17 Installed**
 
-Your system must have **MySQL Server** installed.
+Your system must have **JDK 17** installed and correctly added to **System Environment Variables**.
 
-**Default Credentials Required by the Project:**
+### **Add `JAVA_HOME` in System Variables**
+
+Navigate to:
+
+**System Properties → Advanced → Environment Variables → System Variables → New**
+
+```
+Variable Name: JAVA_HOME
+Variable Value: C:\Program Files\Java\jdk-17
+```
+
+### **Add JDK bin path to System Variables → Path**
+
+Edit the **Path** variable under **System Variables** and add:
+
+```
+C:\Program Files\Java\jdk-17\bin
+```
+
+> ⚠️ Note: Adding these values under *User Variables* may cause Tomcat to fail during startup.
+> Ensure they are configured under **System Variables** only.
+
+---
+
+## **2️⃣ MySQL Installed & Running**
+
+MySQL Server must be installed and active on your machine.
+
+**Default database credentials used in the project:**
 
 ```
 username = root
 password = 1234
 ```
 
-If your MySQL username/password are different, then update them inside:
+If your MySQL credentials differ, update them inside:
 
 ```
 CampusSync/src/main/java/com/campussync/util/DBConnection.java
 ```
 
-Modify the line:
+Modify the connection line:
 
 ```java
 Connection con = DriverManager.getConnection(
     "jdbc:mysql://localhost:3306/campussync", "YOUR_USERNAME", "YOUR_PASSWORD"
 );
 ```
+
+---
+
+## **3️⃣ Import the Database (Mandatory Before Starting Localhost)**
+
+The database **must be imported before you start the server**, otherwise:
+
+* Login will fail
+* Dashboards will not load
+* Tables will be empty
+* JDBC queries will throw errors
+
+Run the SQL file located at:
+
+```
+..\..\CAMPUS-SYNC\CampusSync\src\main\java\com\campussync\db\campussync.sql
+```
+
+Import it using:
+
+* MySQL Workbench
+* phpMyAdmin
+* MySQL CLI
+
+This script creates all required tables (students, faculty, courses, subjects, attendance, notices) along with default login credentials.
+
+---
+
+## **4️⃣ Apache Tomcat (For Manual Startup)**
+
+If you choose to run Tomcat manually:
+
+* Ensure Tomcat is configured with **JDK 17**
+* Verify that port **8080** is available
+* Confirm `JAVA_HOME` is correctly set under System Variables
+
+If using the packaged Tomcat provided in the project, simply run:
+
+```
+StartServer.bat
+```
+
+---
+
+## **5️⃣ Recommended System Setup**
+
+For smooth execution:
+
+* Keep the project folder in a simple directory (e.g., Desktop)
+* Avoid long or deeply nested file paths
+* Ensure the MySQL service remains running
+* Avoid conflicting applications on port 8080
 
 ---
 
