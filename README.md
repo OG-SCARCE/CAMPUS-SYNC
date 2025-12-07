@@ -42,14 +42,13 @@ The platform provides dedicated portals for **Administrators**, **Faculty**, and
 
 # 📘 Key Highlights
 
-* Multi-role authentication system (Admin, Faculty, Student)
-* Unified academic management features
-* Clean MVC design with modular separation
-* DAO-driven database communication
-* JSP-based frontend with dynamic server responses
-* Secure session handling across all portals
-* Organized and scalable project directory
-
+* 🔐 Multi-role authentication system (Admin, Faculty, Student)
+* 📚 Unified academic management features
+* 🧱 Clean MVC design with modular separation
+* 🔄 DAO-driven database communication
+* 🖥️ JSP-based frontend with dynamic server responses
+* 🛡️ Secure session handling across all portals
+* 🗂️ Organized and scalable project directory
 ---
 
 # 🔥 Core Modules
@@ -58,18 +57,18 @@ The platform provides dedicated portals for **Administrators**, **Faculty**, and
 
 The Administrator holds full control over the system and can manage:
 
-* Courses
-* Subjects
-* Faculty
-* Students
-* Notices
-* Overall dashboard summary
+* 📘 Courses
+* 📖 Subjects
+* 👨‍🏫 Faculty
+* 🎓 Students
+* 📢 Notices
+* 📊 Dashboard summary
 
 **Relevant Files**
 
-* `AdminServlet.java`
-* DAO classes: `AdminDAO.java`, `CourseDAO.java`, `StudentDAO.java`, etc.
-* JSP views inside `/webapp/admin/`
+* 🧩 ```AdminServlet.java```
+* 🧰 DAO files: ```AdminDAO.java```, ```CourseDAO.java```, ```StudentDAO.java```, etc.
+* 🖥️ JSP views inside ```/webapp/admin/```
 
 ---
 
@@ -77,17 +76,17 @@ The Administrator holds full control over the system and can manage:
 
 Faculty members can efficiently manage their academic duties:
 
-* Upload assignments
-* Mark or update attendance
-* View notices
-* Manage and record marks
+* 📤 Upload assignments
+* 📝 Mark or update attendance
+* 📃 View notices
+* 🎯 Manage & record marks
 
 **Relevant Files**
 
-* `FacultyServlet.java`
-* `AssignmentServlet.java`
-* `AttendanceServlet.java`
-* JSP views inside `/webapp/faculty/`
+* 🧩 `FacultyServlet.java`
+* 🧩 `AssignmentServlet.java`
+* 🧩 `AttendanceServlet.java`
+* 🖥️ JSP views inside `/webapp/faculty/`
 
 ---
 
@@ -95,15 +94,15 @@ Faculty members can efficiently manage their academic duties:
 
 Students can access:
 
-* Personal dashboard
-* Attendance records
-* Marks
-* Notices from administration and faculty
+* 📊 Personal dashboard
+* 📝 Attendance records
+* 🎯 Marks overview
+* 📢 Notices
 
 **Relevant Files**
 
-* `StudentServlet.java`
-* JSP views inside `/webapp/student/`
+* 🧩 StudentServlet.java
+* 🖥️ JSP views inside /webapp/student/
 
 ---
 
